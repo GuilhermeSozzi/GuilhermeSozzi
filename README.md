@@ -30,7 +30,7 @@
 </details>
 
 <details>
-  <summary>🐍Linguagen da Programação</summary>
+  <summary>🐍Linguagens da Programação</summary>
   <p>  Algumas das Linguagens de Programação e Frameworks com que já tive contato.</p>
   <ul>
     <li>Python</li>
