@@ -10,7 +10,7 @@
   <p>  Algumas de minhas competências gerais referentes à área de TI.</p>
   <ul>
     <li>Lógica de Programação.</li>
-    <li>Programaççao Orientada a Objetos.</li>
+    <li>Programação Orientada a Objetos.</li>
     <li>Banco de Dados Relacional: Modelagem de DER e MER, conhecimento de comandos SQL, uso do sistema SGBD MySQL.</li>
     <li>Engenharia de Software: Diagramas UML, levantamento de requisitos, casos de teste.</li>
     <li>Redes de Computadores: Dispositivos, camada de protocolos, modelo OSI e TCP/IP.</li>
@@ -37,5 +37,6 @@
     <li>Java</li>
     <li>Spring Boot</li>
     <li>PHP</li>
+    <li>JavaScript, HTML e CSS</li>
   </ul>
 </details>
