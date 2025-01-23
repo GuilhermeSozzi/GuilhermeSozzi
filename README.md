@@ -3,7 +3,6 @@
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec, no último ano de formação.
 - 🌱 Meus focos são as áreas de Segurança da Informação e Desenvolvimento de Software.
 - 🗒 Estou estudando para o Google Cybersecurity Profissional Certificate e realizando o curso Cisco CyberOps Associate.
-- 🎯 Atualmente buscando oportunidades para aplicar meus conhecimentos de forma prática.
 
 <details>
   <summary>🖥 Competências Técnicas Gerais</summary>
