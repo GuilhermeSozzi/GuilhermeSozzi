@@ -20,16 +20,17 @@
 
 <details>
   <summary>🔐 Competências Técnicas focadas em Segurança da Informação</summary>
+  <p>Competências focadas em SI.</p>
   <ul>
     <li>Tríade CID - Confidencialidade, Integridade e Disponibilidade.</li>
-    <li>Conceitos téoricos sobre Ameaças, Riscos e Vulnerabilidades.</li>
+    <li>Conhecimentos téoricos sobre Ameaças, Riscos e Vulnerabilidades.</li>
     <li>Redes de Computadores, modelos OSI e TCP/IP, camada de protocolos de rede.</li>
     <li>Frameworks comuns, como OWASP.</li>
   </ul>
 </details>
 
 <details>
-  <summary>Linguagen da Programação</summary>
+  <summary>🐍Linguagen da Programação</summary>
   <p>  Algumas das Linguagens de Programação e Frameworks com que já tive contato.</p>
   <ul>
     <li>Python</li>
