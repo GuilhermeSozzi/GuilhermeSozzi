@@ -24,7 +24,7 @@
     <li>Tríade CID - Confidencialidade, Integridade e Disponibilidade.</li>
     <li>Conhecimentos téoricos sobre Ameaças, Riscos e Vulnerabilidades.</li>
     <li>Redes de Computadores, modelos OSI e TCP/IP, camada de protocolos de rede.</li>
-    <li>Frameworks comuns, como OWASP.</li>
+    <li>Conhecimento inicial em gestão de riscos.</li>
   </ul>
 </details>
 
