@@ -13,7 +13,7 @@
     <li>Banco de Dados Relacional: Modelagem de DER e MER, conhecimento de comandos SQL, uso do sistema SGBD MySQL.</li>
     <li>Engenharia de Software: Diagramas UML, levantamento de requisitos, casos de teste.</li>
     <li>Redes de Computadores: Dispositivos, camada de protocolos, modelo OSI e TCP/IP.</li>
-    <li>Conhecimento das metodologias de desenvolvimento ágeis, como Kanbam e Scrum.</li>
+    <li>Conhecimento teórico das metodologias ágeis, como Kanban e Scrum.</li>
   </ul>
 </details>
 
