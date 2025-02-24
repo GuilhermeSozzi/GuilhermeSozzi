@@ -21,10 +21,10 @@
   <summary>🔐 Competências Técnicas focadas em Segurança da Informação</summary>
   <p>Competências focadas em SI.</p>
   <ul>
-    <li>Tríade CID - Confidencialidade, Integridade e Disponibilidade.</li>
+    <li>Tríade CIA - Confidencialidade, Integridade e Disponibilidade.</li>
     <li>Conhecimentos téoricos sobre Ameaças, Riscos e Vulnerabilidades.</li>
     <li>Redes de Computadores, modelos OSI e TCP/IP, camada de protocolos de rede.</li>
-    <li>Conhecimento inicial em gestão de riscos.</li>
+    <li>Conhecimento inicial em gestão de riscos e vulnerabilidades.</li>
   </ul>
 </details>
 
