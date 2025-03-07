@@ -30,7 +30,7 @@
 
 <details>
   <summary>🐍Linguagens da Programação</summary>
-  <p>  Algumas das Linguagens de Programação e Frameworks com que já tive contato.</p>
+  <p>  Algumas das Linguagens de Programação e Frameworks com que já tive contato inicial.</p>
   <ul>
     <li>Python</li>
     <li>Java</li>
