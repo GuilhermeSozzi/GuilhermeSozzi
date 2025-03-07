@@ -1,7 +1,7 @@
 ## Olá! 👋
 
 - 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec, no último ano de formação.
-- 🌱 Meus focos são as áreas de Segurança da Informação (Cybersecurity, tanto Blue Team quanto Red Team) e Desenvolvimento de Software.
+- 🌱 Meus focos são as áreas de Desenvolvimento de Software (com foco no back-end) e Segurança da Informação (Cybersecurity, tanto Blue Team quanto Red Team).
 - 🗒  Realizei recentemente o curso Cisco CyberOps Associate e estou estudando para o Google Cybersecurity Profissional Certificate.
 
 <details>
