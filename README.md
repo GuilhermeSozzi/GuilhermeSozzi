@@ -6,7 +6,7 @@
 
 <details>
   <summary>🖥 Competências Técnicas Gerais</summary>
-  <p>  Algumas de minhas competências gerais referentes à área de TI.</p>
+  <p>  Algumas de minhas competências gerais da área de TI.</p>
   <ul>
     <li>Lógica de Programação.</li>
     <li>Programação Orientada a Objetos.</li>
